@@ -84,3 +84,9 @@ Programming fanatic, loves solving real-world problems & puzzles, and an avid re
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AadityaMuley&theme=dark&background=000000)](https://git.io/streak-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaMuley&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
