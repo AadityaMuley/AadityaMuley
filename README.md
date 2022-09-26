@@ -32,9 +32,9 @@
 ### :man_technologist: About Me:
 Programming fanatic, loves solving real-world problems & puzzles, and an avid reader! <br />
 
-- :man_student: Graduate student at Arizona State University studying Master's in Computer Software Engineering
+- :man_student: Graduate student at Arizona State University studying Master's in Computer Software Engineering.
 
-- :telescope: I'm looking for Software Development Internships for Summer 2023
+- :telescope: I'm looking for Software Development Internships for Summer 2023!!!
 
 - :zap: In my free time, I solve problems on LeetCode, play my guitar and read.
 
